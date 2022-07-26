@@ -13,3 +13,6 @@ Android UI of Tesla app
 
 ![ModelX](https://user-images.githubusercontent.com/91989821/181110444-01684005-db2e-4d24-b4f9-0a10fafb7914.png)
 <br>
+
+# Projects' main goals
+-React Native learning purposes
