@@ -16,4 +16,5 @@ Android UI of Tesla app
 
 # Projects' main goals
 -React Native learning purposes
+<br>
 -Comparison and understanding some of the differences between React JS and React Native
