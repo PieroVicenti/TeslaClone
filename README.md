@@ -1,6 +1,6 @@
 # TeslaClone
 
-Android UI of Tesla app
+Tesla UI 
 
 - ModelS 
 <br>
